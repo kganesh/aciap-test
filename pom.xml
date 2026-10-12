@@ -15,7 +15,7 @@
   <artifactId>inventory-service</artifactId>
   <version>0.1.0-SNAPSHOT</version>
   <name>inventory-service</name>
-  <description>Small Java + Kotlin service used as the target repository for the aciap coding agent</description>
+  <description>Small Java + Kotlin service used as the target repository for the Coding Agent Platform</description>
 
   <properties>
     <java.version>21</java.version>

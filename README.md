@@ -1,7 +1,7 @@
 # aciap-test: inventory-service
 
 A small Spring Boot service in Java and Kotlin. It is the target repository
-for the [aciap](https://github.com/kganesh/aciap) coding agent: tickets in
+for the [Coding Agent Platform](https://github.com/kganesh/aciap): tickets in
 the Jira simulator ask the agent to change this code, and the agent opens
 pull requests here.
 
